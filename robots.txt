@@ -8,4 +8,4 @@ Allow: /
 User-agent: AdsBot-Google
 Allow: /
 
-Sitemap: https://streetdance-fit-guide.com/sitemap.xml
+Sitemap: https://www.streetdance-fit-guide.com/sitemap.xml
