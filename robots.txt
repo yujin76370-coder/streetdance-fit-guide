@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# AdSense 用クローラー
+User-agent: Mediapartners-Google
+Allow: /
+
+User-agent: AdsBot-Google
+Allow: /
+
+Sitemap: https://streetdance-fit-guide.com/sitemap.xml
