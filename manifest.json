@@ -1,0 +1,26 @@
+{
+  "name": "STREETDANCE FIT GUIDE",
+  "short_name": "STREETDANCE",
+  "description": "ストリートダンサー向けにジャンル別ファッションブランドをまとめたガイド。",
+  "start_url": "/",
+  "scope": "/",
+  "display": "minimal-ui",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#171717",
+  "lang": "ja",
+  "icons": [
+    {
+      "src": "/favicon.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}
